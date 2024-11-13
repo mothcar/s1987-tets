@@ -1,7 +1,6 @@
 import { useRef } from "react";
 import "@google/model-viewer";
 import { activateWebXR } from "@r2u/react-ar-components";
-// import { ModelViewerElement } from '@r2u/react-ar-components'
 import "./App.css";
 
 function App() {
